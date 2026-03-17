@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# posso poi aggiungere tutti i nomi dei file che non voglio che Git tracci:
+
+analysis_options.yaml 
